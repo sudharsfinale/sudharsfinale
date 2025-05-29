@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a NextJS Project<br>👯 I’m looking to collaborate on Web and Mobile Applications<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Python and Docker
+🔭 I’m currently working on a NextJS Project<br>👯 I’m looking to collaborate on Web and Mobile Applications<br>🤝 I’m looking for help with <br>🌱 I’m currently learning NextJS and Docker
 
 
 ## 🌐 Socials:
